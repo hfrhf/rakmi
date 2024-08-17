@@ -1,1 +1,1 @@
-https://hfrhf.github.io/rakmi/
+site: https://hfrhf.github.io/rakmi/
